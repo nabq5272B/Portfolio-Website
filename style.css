@@ -1,0 +1,38 @@
+::selection
+{
+  background: yellow;
+}
+
+body {
+    font-family: monospace;
+    font-size: 21px;
+    line-height: 1.5;
+    background: #eee;
+    width: 60%;
+    max-width: 960px;
+    margin: 0px 20% 40px 20%;
+    background-color: #F5F5F5;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li {
+    margin-top: 4px;
+  }
+
+a {
+    text-decoration: underline dotted;
+    color: #232B2B;
+    }
+
+p {
+    color: #1A2421;
+}
+.dp {
+  border-radius: 100px;
+  border: 7px solid #1A2421;
+}
